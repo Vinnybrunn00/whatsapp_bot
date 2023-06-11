@@ -1,14 +1,14 @@
 ## Clone the repository in Ubuntu
 
-```
-$ git clone https://github.com/Vinnybrunn00/Bot_Whatsapp_Sticker.git
+``` shell
+> git clone https://github.com/Vinnybrunn00/Bot_Whatsapp_Sticker.git
 ```
 
 ## Cloning the repository in Windows
 
 - If you don't have Git installed on Windows, [install here](https://github.com/git-for-windows/git/releases/download/v2.37.1.windows.1/Git-2.37.1-64-bit.exe)
 
-```
+```shell
 $ git clone https://github.com/Vinnybrunn00/Bot_Whatsapp_Sticker.git
 ```
 
@@ -16,12 +16,12 @@ $ git clone https://github.com/Vinnybrunn00/Bot_Whatsapp_Sticker.git
 
 #### ATTENTION: When cloning the [Bot_Whatsapp_Sticker](https://github.com/Vinnybrunn00/Bot_Whatsapp_Sticker) install the modules:
 
-```
-$ npm i
+```shell
+> npm i
 ```
 If there is an error in the installation, delete the file. ```package.json``` and install again:
 
-```
+```shell
 $ npm i --save @open-wa/wa-automate@latest
 ```
 
