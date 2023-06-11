@@ -9,7 +9,7 @@
 - If you don't have Git installed on Windows, [install here](https://github.com/git-for-windows/git/releases/download/v2.37.1.windows.1/Git-2.37.1-64-bit.exe)
 
 ```shell
-$ git clone https://github.com/Vinnybrunn00/Bot_Whatsapp_Sticker.git
+> git clone https://github.com/Vinnybrunn00/Bot_Whatsapp_Sticker.git
 ```
 
 ## installation 
@@ -22,7 +22,7 @@ $ git clone https://github.com/Vinnybrunn00/Bot_Whatsapp_Sticker.git
 If there is an error in the installation, delete the file. ```package.json``` and install again:
 
 ```shell
-$ npm i --save @open-wa/wa-automate@latest
+> npm i --save @open-wa/wa-automate@latest
 ```
 
 Full API documentation [here](https://github.com/open-wa/wa-automate-nodejs)
